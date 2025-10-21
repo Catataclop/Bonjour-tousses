@@ -1,4 +1,4 @@
-# ça c'est le code pour propulser l'appli streamlit
+# ça c'est le code pour déployer l'appli streamlit
 
 import streamlit as st
 
