@@ -1,5 +1,0 @@
-# ce doc là c'est spécifiquement pour importer les librairies utiles à l'application
-
-streamlit
-pandas
-matplotlib
