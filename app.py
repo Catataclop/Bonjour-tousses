@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 
 st.title("Bonjourre à tousses")
-st.header("Bienvenue sur mon app à moi")
+st.header("Bienvenue dans mon app à moi")
 st.subheader("Elle est pas copiée sur Romain nonnon")
 
 st.write("Sans transition, voici un data frame de nombres et leurs carrés :")
