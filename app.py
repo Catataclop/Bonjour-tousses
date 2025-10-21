@@ -14,4 +14,4 @@ d = {"nombres":nmb, "carres":carre} # création d'un bibliothèque
 
 data = pd.DataFrame(d) # dataframe associé avec pandas
 
-st.DataFrame(data) # affichage du dataframe dans streamlit
+st.dataframe(data) # affichage du dataframe dans streamlit
